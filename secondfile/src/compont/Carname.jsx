@@ -3,7 +3,7 @@ import React from 'react'
 function Carname() {
   return (
     <>
-     <div className="container mb-5">
+     <div className="container mb-5" id="Shop">
      <div className="card d-flex justify-content-center" style={{backgroundColor:" rgb(18,18,18)",height:130,marginBottom:80}}>
   {/* <img src="" className="card-img" alt="..."/> */}
   <h1 style={{fontSize:230}}>LUXURIOUS</h1>
